@@ -4,6 +4,7 @@
 # include <stdio.h>
 
 // A[]: array
+
 // n: array length(size)
 // v: search value
 int sequentialSearch(int A[], int n, int v){
